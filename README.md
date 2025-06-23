@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 **IT Administrator | DevOps Learner | Cloud Enthusiast**
+💻 **IT Administrator | Cloud Enthusiast**
 
 I'm a hands-on IT professional passionate about system administration, cloud infrastructure, and automation. I’m currently studying at College de Maisonneuve, and I’m actively building real-world projects.
 
