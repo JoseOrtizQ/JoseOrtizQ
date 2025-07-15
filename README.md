@@ -17,7 +17,7 @@ I'm a hands-on IT professional passionate about system administration, cloud inf
 
 ## 📌 Projects You Should Check Out
 - **[CloudFormation-Infrastructure](https://github.com/JoseOrtizQ/CloudFormation-Infrastructure)** – Real AWS environment setup using Infrastructure as Code.
-- **[Cloud-Resume-UI](https://github.com/JoseOrtizQ/Cloud-Resume-UI)** – Static portfolio deployed on S3 + CloudFront.
+- **[Cloud-Resume-BackEnd](https://github.com/JoseOrtizQ/Cloud-Resume-BackEnd.git)** – Back-end infrastructure written with CloudFormation.
 - **[Ansible Tutorial](https://github.com/JoseOrtizQ/ansible)** – Practice playbooks for infrastructure automation.
 
 ---
