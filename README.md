@@ -25,7 +25,3 @@ I'm a hands-on IT professional passionate about system administration, cloud inf
 ## 📫 Let's Connect
 You can visit my portfolio at: [**sysadminortiz.com**](https://sysadminortiz.com)  
 Or reach out on LinkedIn: [**www.linkedin.com/in/joseortiz-q**](https://www.linkedin.com/in/joseortiz-q)
-
-Thanks for stopping by!
-
-
