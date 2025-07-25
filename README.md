@@ -18,7 +18,7 @@ I'm a hands-on IT professional passionate about system administration, cloud inf
 ## 📌 Projects You Should Check Out
 - **[CloudFormation-Infrastructure](https://github.com/JoseOrtizQ/CloudFormation-Infrastructure)** – Real AWS environment setup using Infrastructure as Code.
 - **[Cloud-Resume-BackEnd](https://github.com/JoseOrtizQ/Cloud-Resume-BackEnd.git)** – Back-end infrastructure written with CloudFormation.
-- **[PowerShell Commands](https://github.com/JoseOrtizQ/PowerShell-Commands)** – Practice playbooks for infrastructure automation.
+- **[PowerShell Commands](https://github.com/JoseOrtizQ/PowerShell-Commands)** – PowerShell commands for system administration.
 
 ---
 
