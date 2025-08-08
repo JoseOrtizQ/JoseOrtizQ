@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 **IT Administration | AWS | Linux | Networking | Automation | Cloud | Support** 
+💻 **IT Administration | AWS | Linux | Networking | Automation | Cloud | Support | Databases** 
 
 I'm a hands-on IT professional passionate about system administration, cloud infrastructure, and automation. I’m currently studying at College de Maisonneuve, and I’m actively building real-world projects.
 
