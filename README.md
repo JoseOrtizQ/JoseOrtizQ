@@ -17,7 +17,7 @@ I'm a hands-on IT professional passionate about system administration, cloud inf
 
 ## 📌 Projects You Should Check Out
 - **[CloudFormation-Infrastructure](https://github.com/JoseOrtizQ/CloudFormation-Infrastructure)** – Real AWS environment setup using Infrastructure as Code.
-- **[Cloud-Resume-UI](https://github.com/JoseOrtizQ/Cloud-Resume-UI.git)** – Frontend for a cloud-hosted professional portfolio site
+- **[Cloud-Resume-UI](https://github.com/JoseOrtizQ/Cloud-Resume-UI.git)** – Frontend for a cloud-hosted professional portfolio site.
 - **[MedDB-PharmaFlow](https://github.com/JoseOrtizQ/MedDB-PharmaFlow.git)** – Healthcare Inventory Management System.
 
 ---
